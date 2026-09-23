@@ -10,7 +10,7 @@ This project analyzes NYC Parks inspection records from 2020 to 2025 to measure 
 
 ## Dataset
 
-- **Source:** [NYC Parks Inspection Program dataset](https://data.cityofnewyork.us/dataset/Parks-Inspection-Program-Inspections/yg3y-7juh/about_data)]
+- **Source:** [NYC Parks Inspection Program dataset](https://data.cityofnewyork.us/dataset/Parks-Inspection-Program-Inspections/yg3y-7juh/about_data)
 - **Size:** 36,481 inspection records after cleaning
 - **Period:** 2020–2025
 - **Key fields:** borough, district, season, inspection date, inspector, overall condition, and cleanliness rating (Acceptable / Unacceptable / Not Rated)
@@ -59,4 +59,4 @@ This project analyzes NYC Parks inspection records from 2020 to 2025 to measure 
 ## Author
 
 **Kullapat Dennis**
-[LinkedIn]((https://www.linkedin.com/in/kullapat-dennis-a5435717b/))
+[LinkedIn](https://www.linkedin.com/in/kullapat-dennis-a5435717b/)
